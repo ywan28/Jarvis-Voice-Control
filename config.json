@@ -1,0 +1,15 @@
+{
+  "wake_word": "jarvis",
+  "wake_timeout": 10,
+  "voice": 14,
+  "tts_speed": 201.40845070422534,
+  "default_location": "Pennington,NJ,US",
+  "default_stocks": [],
+  "default_news_topics": [
+    "US",
+    "financial",
+    "industry"
+  ],
+  "openai_api_key": "",
+  "openweather_api_key": ""
+}
